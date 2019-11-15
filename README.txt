@@ -1,1 +1,1 @@
-Hello World! GNOJU!
+Hello World!
