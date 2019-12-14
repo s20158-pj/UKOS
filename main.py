@@ -10,6 +10,13 @@ class Klasa:
     def string(self, s):
         return self.x.join(s)
 
+class Inna:
+    def __str__(self):
+        return "Siema"
+
+i = Inna()
+print(i)
+
 k = Klasa('x')
 print(k.string(sys.argv))
 #main(sys.argv)
